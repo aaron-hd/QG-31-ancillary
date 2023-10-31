@@ -1,5 +1,5 @@
 # QG-31-ancillary
-Ancillary files for arXiv publication 2106.xxxxx
+Ancillary files for arXiv publication 2306.04725
 
 depedencies:
 Mathematica 12
